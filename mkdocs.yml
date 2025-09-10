@@ -1,0 +1,25 @@
+site_name: Opseen ERP User Guide
+
+nav:
+  - Home: index.md
+  - Finance:
+      - Chart of Accounts: docs/01-chart-of-accounts.md
+      # Later we will add:
+      # - Fiscal Year: docs/02-fiscal-year.md
+      # - Opening Balances: docs/03-opening-balances.md
+      # - Journal Voucher: docs/04-journal-voucher.md
+      # - Bill Voucher: docs/05-bill-voucher.md
+      # - Payment Voucher: docs/06-payment-voucher.md
+      # - Sales Voucher: docs/07-sales-voucher.md
+      # - Receipt Voucher: docs/08-receipt-voucher.md
+      # - Contra Voucher: docs/09-contra-voucher.md
+      # - General Ledger: docs/10-general-ledger.md
+      # - Supplier Ledger: docs/11-supplier-ledger.md
+      # - Cash / Bank Book: docs/12-cash-bank-book.md
+      # - Customer Ledger: docs/13-customer-ledger.md
+      # - Cost Center Ledger: docs/14-cost-center-ledger.md
+      # - Project Center Ledger: docs/15-project-center-ledger.md
+      # - Balance Sheet: docs/16-balance-sheet.md
+
+theme:
+  name: readthedocs
