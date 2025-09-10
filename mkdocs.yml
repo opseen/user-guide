@@ -4,7 +4,9 @@ site_url: https://user-guide.readthedocs.io
 nav:
   - Home: index.md
   - Finance:
-      - Chart of Accounts: docs/01-chart-of-accounts.md
+      - Chart of Accounts: 01-chart-of-accounts.md
 
 theme:
   name: readthedocs
+
+docs_dir: docs
